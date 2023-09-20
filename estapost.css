@@ -1,0 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.limenu{
+    list-style: none;
+    display: inline;
+    margin: 4% 6% 4% 6%;
+}
+.h1nome{
+    text-align: center;
+}
